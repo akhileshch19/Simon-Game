@@ -1,2 +1,2 @@
 # Simon-Game
-Created a Simon game simulator.
+Created an online Simon game simulator using javascript and jQuery
